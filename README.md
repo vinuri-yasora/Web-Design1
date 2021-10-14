@@ -1,0 +1,1 @@
+This is a simple web design using html, css and javascript
